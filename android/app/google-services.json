@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286552199323",
+    "project_id": "seyaqti-mobile-app",
+    "storage_bucket": "seyaqti-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286552199323:android:6e1cd92c0d6db879e8b63e",
+        "android_client_info": {
+          "package_name": "com.example.seyaqti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286552199323-19frikl5k85ucbg54bsirq2avtdtoem7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61cbvaOWWxxpT214NtyGB_qWzt-BXV_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286552199323-19frikl5k85ucbg54bsirq2avtdtoem7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

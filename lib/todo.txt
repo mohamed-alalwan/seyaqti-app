@@ -1,0 +1,9 @@
+*Instructor Dashboard needs:
+    -currrent trainees and requests num.
+    -pending, completed lessons num.
+    -recent 3 reviews
+
+*Trainee Dashboard needs
+    -instructor pic, name, rate.
+    -pending, completed lessons num.
+    -training hours out of 22.

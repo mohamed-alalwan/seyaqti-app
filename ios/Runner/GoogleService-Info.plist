@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>286552199323-73hv7bdu44en8jvltlbvjrcsc7dklscq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286552199323-73hv7bdu44en8jvltlbvjrcsc7dklscq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA2UGqJYlJBDUZwJlgho_zxg7Lst1W75c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286552199323</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.seyaqtiApp</string>
+	<key>PROJECT_ID</key>
+	<string>seyaqti-mobile-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seyaqti-mobile-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286552199323:ios:58d9f550c8b4523ae8b63e</string>
+</dict>
+</plist>
