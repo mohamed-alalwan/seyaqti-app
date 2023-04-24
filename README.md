@@ -30,6 +30,10 @@ I developed this app as a part of my Bahrain Polytechnic studies (Coperate Learn
     - Lessons
     - Requests
 
+## Prototype (Figma)
+- [View Project](https://www.figma.com/file/57wXDqgtrMqY9QCCIcZwMG/Seyaqti?node-id=0%3A1&t=j2KPrJgSZ19N0HKF-1)
+- [Run Prototype](https://www.figma.com/proto/57wXDqgtrMqY9QCCIcZwMG/Seyaqti?node-id=5-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)
+
 ## Designs
 1. ERD
 ![ERD](./readme_images/ERD.png)
@@ -42,13 +46,6 @@ I developed this app as a part of my Bahrain Polytechnic studies (Coperate Learn
 
 4. Trainee Flow Diagram
 ![Trainee Flow Diagram](./readme_images/Trainee_Flow.png)
-
-## Prototype (Figma)
-- [View Project](https://www.figma.com/file/57wXDqgtrMqY9QCCIcZwMG/Seyaqti?node-id=0%3A1&t=j2KPrJgSZ19N0HKF-1)
-- [Run Prototype](https://www.figma.com/proto/57wXDqgtrMqY9QCCIcZwMG/Seyaqti?node-id=5-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)
-
-![Prototype Preview](./readme_images/Prototype.png)
-
 
 ## Project Issues
 1. Instructors cannot reject requests from trainees.
