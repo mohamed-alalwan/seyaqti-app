@@ -3,7 +3,7 @@ Mobile App that automates the driving school process between instructors and tra
 
 I developed this app as a part of my Bahrain Polytechnic studies (Coperate Learning Project) which was sponsored by Information and eGovernment Authority.
 
-- [Application APK Link (Andriod)](https://drive.google.com/file/d/1bKbBRIVsD_czO-ZT967MQxX3DgBc2TZG/view?usp=sharing)
+- [Application APK Link (Android)](https://drive.google.com/file/d/1bKbBRIVsD_czO-ZT967MQxX3DgBc2TZG/view?usp=sharing)
 
 ## Technology Used
 - Flutter
